@@ -581,7 +581,7 @@ learn.recorder.plot_losses()
 
 
 
-As well as taking a really long time, it's getting too many looks at each image, so may overfit.
+As well as taking a really long time, it's getting too many loops at each image, so may overfit.
 
 
 
